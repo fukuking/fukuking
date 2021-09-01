@@ -9,4 +9,4 @@ fukuking/fukuking is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 🎥 I am a new maker of code Bot.
+- 🎥 I'm studying code for make new bot
